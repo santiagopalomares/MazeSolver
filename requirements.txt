@@ -1,1 +1,2 @@
-# TODO: Add dependencies if/when needed (e.g., numpy, pygame) 
+# No external dependencies required for this project
+# The maze solver uses only Python standard library 
