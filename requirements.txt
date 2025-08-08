@@ -1,2 +1,17 @@
-# No external dependencies required for this project
-# The maze solver uses only Python standard library 
+# Maze Solver - Requirements
+# This project uses only Python standard library components
+
+# Python Version
+# Requires Python 3.6 or higher
+
+# Standard Library Dependencies Used:
+# - abc (for abstract base classes)
+# - collections (for deque)
+# - heapq (for priority queue)
+# - os (for screen clearing)
+
+# No external packages required
+# The maze solver is designed to be lightweight and portable
+
+# To run the project:
+# python main.py 
